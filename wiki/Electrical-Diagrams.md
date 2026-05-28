@@ -2,19 +2,37 @@
 
 ## Электрические схемы ИЖ-2126
 
-На этой странице собраны электрические схемы и диаграммы для ИЖ-2126:
+На этой странице собраны электрические схемы и диаграммы для ИЖ-2126.
 
-## Доступные электросхемы
+## 📄 Доступные электросхемы
 
 ### Основные схемы:
-- **[2126-020.pdf](../blob/main/Schematics/2126-020.pdf)** - Основная электрическая схема ИЖ-2126-020
-- **[21261-Fabula.pdf](../blob/main/Schematics/21261-Fabula.pdf)** - Схема ИЖ-2126 Fabula (основной вариант)
-- **[21261-Fabula_pr.pdf](../blob/main/Schematics/21261-Fabula_pr.pdf)** - Схема ИЖ-2126 Fabula (прототип)
 
-### Дополнительные схемы:
-- **[S_priborkoy_2141.pdf](../blob/main/Schematics/S_priborkoy_2141.pdf)** - Схема с приборной панелью
-- **[Zad_dvornic.pdf](../blob/main/Schematics/Zad_dvornic.pdf)** - Задние фонари (схема)
-- **[mont_blok.pdf](../blob/main/Schematics/mont_blok.pdf)** - Схема монтажного блока
+1. **[2126-020.pdf](https://github.com/darxfame/IZH-2126-docs/blob/main/2126-020.pdf)** *(~394 KB)*
+   - Основная электрическая схема ИЖ-2126-020
+
+2. **[21261-Fabula.pdf](https://github.com/darxfame/IZH-2126-docs/blob/main/21261-Fabula.pdf)** *(~641 KB)*
+   - Схема ИЖ-2126 Fabula (основной вариант)
+
+3. **[21261-Fabula_pr.pdf](https://github.com/darxfame/IZH-2126-docs/blob/main/21261-Fabula_pr.pdf)** *(~270 KB)*
+   - Схема ИЖ-2126 Fabula (прототип)
+
+### Схемы приборной панели и электрооборудования:
+
+4. **[S_priborkoy_2141.pdf](https://github.com/darxfame/IZH-2126-docs/blob/main/S_priborkoy_2141.pdf)** *(~18.5 MB)*
+   - Схема с приборной панелью 2141
+
+5. **[Zad_dvornic.pdf](https://github.com/darxfame/IZH-2126-docs/blob/main/Zad_dvornic.pdf)** *(~104 KB)*
+   - Задние фонари - электрическая схема
+
+6. **[mont_blok.pdf](https://github.com/darxfame/IZH-2126-docs/blob/main/mont_blok.pdf)** *(~197 KB)*
+   - Схема монтажного блока и реле
+
+## 🔍 Как пользоваться схемами
+
+- Используйте электросхемы для диагностики и ремонта электрооборудования
+- При обслуживании электрической системы следуйте схемам
+- Для более подробной информации смотрите разделы [[Ремонт и регулировки]] и [[Техническое обслуживание]]
 
 ## 📖 Полная информация
 
